@@ -58,10 +58,6 @@ Authentication:
 - JWT
 - bcryptjs
 
-## 📸 Screenshots
-
-(Add screenshots here later)
-
 ## 👨‍💻 Author
 
 Bhaskar Raj
